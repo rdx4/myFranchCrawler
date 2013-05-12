@@ -1,0 +1,2 @@
+This code is one of many crawlers I wrote in Python for the getestate.net website. The aim of the crawler is to read data from realestate websites (e.g. http://www.my-french-house.com). In order to write a good crawler, which obtains as much data as possible from the website, I needed to understand the structure of the website, to write a code in Python to parse the data
+from the website as well as to expand my geographical knowledge of France.
