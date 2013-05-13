@@ -85,10 +85,3 @@ class MyFrenchHouse(CrawlerBase):
 
 def crawl(max_items, max_time):
     return MyFrenchHouse().crawl(max_items, max_time)
-
-x = MyFrenchHouse()
-print x.do_get_root_url()
-it = x.do_crawl()
-for i in it:
-    print i
-print "END"
